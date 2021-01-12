@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T06:03:31.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="12.9.9" etag="Oo-pTD2owPOTpfgpNJek" type="github"><diagram id="bw6txeerim9WFK2bDnwY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:25:52.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DJ6AVmu3hjMasLmCcQE1" version="12.9.9" type="github">
+  <diagram id="bw6txeerim9WFK2bDnwY" name="第 1 页">
+    <mxGraphModel dx="2249" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-2" value="&lt;div&gt;输入设备&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-4" value="&lt;div&gt;输出设备&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-169" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-6" value="&lt;span style=&quot;text-align: left&quot;&gt;运算器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-8" target="1-hRrAmWHCDtgn2yn-Nw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-8" target="1-hRrAmWHCDtgn2yn-Nw-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-42" target="1-hRrAmWHCDtgn2yn-Nw-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-8" value="&lt;span style=&quot;text-align: left&quot;&gt;存储器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-50" value="&lt;div style=&quot;text-align: left&quot;&gt;只读存储器（read only memory，ROM）&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-42" target="1-hRrAmWHCDtgn2yn-Nw-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-42" value="&lt;div style=&quot;text-align: left&quot;&gt;按照存储器读写功能的不同&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-44" target="1-hRrAmWHCDtgn2yn-Nw-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-44" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;随机读写存储器（random access memory，RAM）&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-46" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;可以随意读出和写&lt;span&gt;入，且存取的速度与存储单元的位置无关&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="290" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-7" value="&lt;span style=&quot;text-align: left&quot;&gt;控制器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-1" target="1-hRrAmWHCDtgn2yn-Nw-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-1" target="1-hRrAmWHCDtgn2yn-Nw-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-1" target="1-hRrAmWHCDtgn2yn-Nw-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-1" target="1-hRrAmWHCDtgn2yn-Nw-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-1" target="1-hRrAmWHCDtgn2yn-Nw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-1" value="计算机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="-30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-hRrAmWHCDtgn2yn-Nw-38" target="1-hRrAmWHCDtgn2yn-Nw-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-38" value="&lt;div&gt;计算机的记忆单元（程序+数据）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="70" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1-hRrAmWHCDtgn2yn-Nw-39" value="&lt;div&gt;0 和 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="72.5" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
